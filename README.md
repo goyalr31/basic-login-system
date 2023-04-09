@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### 'json-server --watch db.json --port 4000'
+Runs the server on [http://localhost:4000] (http://localhost:4000) to view it in your browser.\
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
